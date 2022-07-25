@@ -1,7 +1,15 @@
-### Hi there 👋
+Hi, I´m Gonçalo!
+Mechanical Enginner and Code Cadet @ Academia de Codigo.
 
-<!--
-**GoncaloCosta17/GoncaloCosta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Projects ⚡
+
+- Multiplayer Space Shooter using SimplesGFX (Academia de Codigo 4th Week);
+- Map Coloring and Cleaning tool (Academia de Codigo 6th Week);
+- JavaBank (Academia de codigo Secret Project)
+
+
+
+
 
 Here are some ideas to get you started:
 
