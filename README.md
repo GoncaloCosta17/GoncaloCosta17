@@ -1,5 +1,8 @@
 Hi, I´m Gonçalo!
+
 Mechanical Enginner and Code Cadet @ Academia de Codigo.
+- 🔭 I’m currentlly studying at Academia de Codigo
+
 
 ⚡ Projects ⚡
 
@@ -8,17 +11,20 @@ Mechanical Enginner and Code Cadet @ Academia de Codigo.
 - JavaBank (Academia de codigo Secret Project)
 
 
+Skills that i learned during my bootcamp :
+
+✔️ Design Patterns
+✔️ MVC and Service Layer
+✔️ Tests
+✔️ User Interface
+✔️ Maven
+✔️ Databases
+✔️ JDBC
+✔️ JPA
+✔️ Spring
+✔️ Java Web
+✔️ SpringMVC
+
+  
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
