@@ -1,6 +1,6 @@
 Hi, I´m Gonçalo!
 
-Mechanical Enginner and Code Cadet @ Academia de Codigo.
+Mechanical Engineer and Code Cadet @ Academia de Codigo.
 - 🔭 I’m currentlly studying at Academia de Codigo
 
 
@@ -8,7 +8,8 @@ Mechanical Enginner and Code Cadet @ Academia de Codigo.
 
 - Multiplayer Space Shooter using SimplesGFX (Academia de Codigo 4th Week);
 - Map Coloring and Cleaning tool (Academia de Codigo 6th Week);
-- JavaBank (Academia de codigo Secret Project)
+- JavaBank (Academia de codigo Secret Project);
+- A Store for a Whisky Brand called the Proclaimers;
 
 
 Skills that i learned during my bootcamp :
